@@ -30,5 +30,6 @@ REST API requests are made of 4 major components
 4 Body
 
 (QUIZ Study Aid)
- -
-Remote procedure calls are typically synchronous, but not always. Some remote procedure calls are asynchronous. There is nothing in the transport protocol that prevents them from being asynchronous
+ - Remote procedure calls are typically synchronous, but not always. Some remote procedure calls are asynchronous. There is nothing in the transport protocol that prevents them from being asynchronous
+ - 
+ 
