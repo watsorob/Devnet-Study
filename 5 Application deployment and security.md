@@ -1,28 +1,6 @@
-[ Module Cliffnotes]
-# Application Deployment & Security
-
-- Large Org's typically use a 4 tier structure
-    - Development
-    - Test
-    - Stage
-    - Production
-
--   4 Deployment Models
-    - Bare metal
-    - Virtual Machines
-    - Containers
-    - Serverless
-
-- Infrastructure types
-  - On Prem
-  - Private Cloud
-  - Public Cloud
-  - Hybrid Cloud
-  - Edge Cloud
 
 
   [Quiz Study Aid]
-  -
 Application deployment and security
 Module Overview
 
