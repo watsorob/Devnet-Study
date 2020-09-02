@@ -1,27 +1,3 @@
-[ Module Cliffnotes]
-# Infrastructure Automation
-
-Walk Run Fly Concept breaks down many automation use cases in progressive complexity
-
-Automation through the DevNet Automation Exchange to understand the levels of complexity and choices available.
-
-Cisco Use Case Library @ https://developer.cisco.com/network-automation/
-
-- Walk Stage Filter
-https://developer.cisco.com/network-automation/listing/#stage=Walk
-
-- Run Stage Filter
-https://developer.cisco.com/network-automation/listing/#stage=Run
-
-- Fly Stage Filter
-https://developer.cisco.com/network-automation/listing/#stage=Fly
-
-Infrastructure automation can deliver many benefits, which can be summarized as:
-
-- Speed
-- Repeatability
-- The ability to work at scale, with reduced risk
-Automation is a key component of functional software-defined infrastructure and distributed and dynamic applications.
 
   [Quiz Study Aid]
   - GitOps treats infrastructure as code and uses version control systems like Git.
